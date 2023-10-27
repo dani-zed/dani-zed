@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dani-zed
+- 👋 Hi, I’m danish
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python full stack
 - 💞️ I’m looking to collaborate on ...

@@ -1,7 +1,7 @@
 # Hi, I'm Danish Mohammed 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with a strong focus on building scalable and dynamic web applications.
-I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and love working on projects that challenge me to learn and grow.
+I specialize in MERN stack (MongoDB, Express.js, React, Node.js) and love working on projects that challenge me to learn and grow.
 
 ## 🧑‍💻 About Me
 
@@ -15,7 +15,6 @@ I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and love wo
 
 ### Front-End
 - React.js
-- Next.js
 - HTML, CSS, JavaScript
 - Tailwind CSS / Bootstrap
 

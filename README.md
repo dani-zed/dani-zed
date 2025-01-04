@@ -9,7 +9,7 @@ I specialize in MERN stack (MongoDB, Express.js, React, Node.js) and love workin
 - 🌱 I’m continuously learning and keeping up-to-date with new technologies in the web development ecosystem.
 - 💼 I’m open to freelance opportunities, collaboration, and full-time roles.
 - 🌍 Based in Malappuram,Kerala.
-- 🧑‍🎓 Iam a  BCA graduate dand completed MERN web development course.
+- 🧑‍🎓 Iam a  BCA graduate and have completed a comprehensive course on  MERN web development.
 
 ## 🛠️ Technologies & Tools
 

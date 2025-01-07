@@ -36,7 +36,7 @@ I specialize in MERN stack (MongoDB, Express.js, React, Node.js) and love workin
 Here are some of the projects I’ve worked on:
 
 - E-commerce Website: A full-fledged e-commerce platform built with MERN stack, including features like user authentication, product listing, and shopping cart functionality.
-- Blog Platform: A blog application with CRUD operations for posts, user authentication, and comment functionality.
+- Blog Platform: A blog application with CRUD operations for posts, user authentication.
 
 Feel free to check out my repositories to see more of my work!
 
